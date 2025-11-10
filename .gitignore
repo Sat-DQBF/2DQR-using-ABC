@@ -1,0 +1,5 @@
+**/build
+eval*
+testcases
+.DS_Store
+scripts

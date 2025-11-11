@@ -2,10 +2,10 @@
 
 This is an implementation of 2DQR with ABC as the PDR solver as reported in the paper:
 
-2-DQBF Solving and Certification via Property-Directed Reachability Analysis\
-Long-Hin Fung, Che Cheng, Yu-Wei Fan, Tony Tan, Jie-Hong Roland Jiang\
-Proceedings of FMCAD 2024 (best paper award)\
-Invited and submitted to Formal Methods in System Designs
+  2-DQBF Solving and Certification via Property-Directed Reachability Analysis\
+  Long-Hin Fung, Che Cheng, Yu-Wei Fan, Tony Tan, Jie-Hong Roland Jiang\
+  Proceedings of FMCAD 2024 (best paper award)\
+  Invited and submitted to Formal Methods in System Designs
 
 The experimental results reported in the journal paper use this implementation.
 
